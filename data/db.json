@@ -1,0 +1,46 @@
+{
+  "forms": [
+    {
+      "id": "f04731ab-050f-4edd-96e3-37d246434c3a",
+      "title": "Отклик на стажировку",
+      "fields": [
+        {
+          "name": "email",
+          "type": "email",
+          "required": true
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": true
+        }
+      ],
+      "createdAt": "2026-10-21T07:53:04.606Z"
+    },
+    {
+      "id": "f0aa4d2d-2dba-4156-99bd-d511eea79991",
+      "title": "вфывфы",
+      "fields": [
+        {
+          "name": "вфывфыв",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "createdAt": "2026-10-21T08:13:27.766Z"
+    },
+    {
+      "id": "4bf3052b-1b04-4283-8305-9a63e4ebdbb4",
+      "title": "апав",
+      "fields": [
+        {
+          "name": "пвапвап",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "createdAt": "2026-10-21T08:25:51.405Z"
+    }
+  ],
+  "responses": []
+}
